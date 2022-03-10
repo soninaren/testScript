@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TestScript.DiagnosticEventTableStorageRepository">
+    <Position X="5.5" Y="1.75" Width="3" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACgkCAgCAAAAAQgAAgQAAAAoAAIAIAAEBIA=</HashCode>
+      <FileName>DiagnosticEventTableStorageRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestScript.DiagnosticEvent">
+    <Position X="1.5" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAQAgAIAIBAAAAIAAAAAA=</HashCode>
+      <FileName>DiagnosticEventTableStorageRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestScript.TableStorageHelpers">
+    <Position X="1.25" Y="6" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEABAAAAACAAAAAAAAAgAAAAAIAAAAAAABAAAAA=</HashCode>
+      <FileName>DiagnosticEventTableStorageRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
